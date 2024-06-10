@@ -1,0 +1,2 @@
+url = https://indianexpress.com/article/business/aviation/india-features-in-top-3-target-markets-for-london-gatwick-airport-chief-commercial-officer-jonathan-pollard-9380549/
+question: What is London Gatwick’s view of the Indian market and what are your expectations in terms of traffic to and from India in the years to come?
